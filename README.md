@@ -2,6 +2,15 @@
 
 Thanks for checking out my submission!
 
+I know, I know...I'm based in the UK and not the US but hear me out!
+
+* I've worked extensively with US clients in the past. I have a US bank account and can easily set up a US subsidiary for my UK LLC if you need a legal entity in the US.
+* I came across the role on Hacker News and was intrigued by how you're linking together disparate healthcare systems. This position looks super interesting and I couldn't resist.
+* The tech test was right in the sweet spot of being mildly interesting/challenging without it taking too long.
+* I've got +15 years of experience including 2 years at Booking.com. I think I'd bring a lot of value to Thoughtful.
+
+## My approach
+
 I decided to bootstrap it with [Create React App](https://github.com/facebook/create-react-app) and spent roughly 30 minutes building the component and associated tests. 
 
 I probably then spent a further 15 tidying it up and writing this readme...hope that's OK!
